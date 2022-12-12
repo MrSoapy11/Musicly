@@ -1,0 +1,2 @@
+# Musicly
+A music bot
